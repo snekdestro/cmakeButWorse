@@ -1,0 +1,6 @@
+G++
+LIB_DIR lib
+SRC src
+INCLUDE include
+FLAGS flags
+OUT out
